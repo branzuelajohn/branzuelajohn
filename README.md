@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hello! I'm John Alec.</h1>
-<h2 align="center">Currently a final year student in NUS Computer Science</h2>
+<h2 align="center">Fresh Graduate from NUS Computer Science</h2>
 <h3 align="center">Welcome to my github profile </h3>
 <p align="center">
   <a href="https://branzuelajohn.github.io/">Portfolio</a> •
